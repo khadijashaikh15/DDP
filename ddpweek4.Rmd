@@ -1,7 +1,7 @@
 ---
 title: "Analysis of the mtcars Dataset"
-author: "Prita Saha"
-date: "25/11/2021"
+author: "Khadija Shaikh"
+date: "19/12/2021"
 output:
   slidy_presentation: default
   html_document:
